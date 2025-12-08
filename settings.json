@@ -1,0 +1,39 @@
+{
+    "editor.accessibilitySupport": "off",
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+
+    // Python
+    "flake8.args": [
+        "--max-line-length=120",
+        "--ignore=E402,F841,F401,E302,E305,W503"
+    ],
+    
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "find-it-faster.general.useTerminalInEditor": true,
+    "workbench.tips.enabled": false,
+    "terminal.external.osxExec": "Terminal.app",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.snippetSuggestions": "top",
+    "editor.stickyScroll.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.minimap.enabled": false,
+    "editor.lightbulb.enabled": "off",
+    "editor.guides.indentation": false,
+    "breadcrumbs.enabled": false,
+    "editor.formatOnSave": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "explorer.decorations.badges": true,
+    "explorer.decorations.colors": true,
+    "editor.hover.enabled": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorWidth": 3,
+    "editor.overviewRulerBorder": false,
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+}
